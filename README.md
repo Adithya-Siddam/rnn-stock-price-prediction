@@ -5,7 +5,7 @@
 To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
-
+The end goal is to build a RNN model to predict the stock prices of Google using the dataset provided. The dataset has many features, but we will be predicting the "Open stock" feauture alone. We will be using a sequence of 60 readings to predict the 61st reading. These parameters can be changed as per requirements.
 
 ## Design Steps
 ### Step 1:
